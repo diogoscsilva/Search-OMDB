@@ -1,0 +1,58 @@
+
+.card {
+  box-sizing: border-box;
+  max-height: 400px;
+  min-height: 300px;
+  max-width: 380px;
+  min-width: 280px;
+  height: 30%;
+  width: 24%;
+  min-width: 90px;
+  padding: 0.5rem;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card.detail {
+  flex-wrap: wrap;
+  width: 40%;
+  position: relative;
+  z-index: 1;
+  border: solid 1px #c1c1c1;
+  border-radius: 16px;
+}
+
+.card img {
+  height: 30%;
+  max-height: 240px;
+  min-height: 100px;
+  max-width: 210px;
+  min-width: 100px;
+  width: 60%;
+}
+
+.card.detail img {
+  width: 40%;
+}
+
+div.card.detail p {
+  width: 46%;
+}
+
+.card.movie p {
+  font-size: 0.9em;
+  width: 70%;
+  margin: 0;
+  margin-bottom: 0.2rem;
+}
+
+.card.movie span {
+  display: inline;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}

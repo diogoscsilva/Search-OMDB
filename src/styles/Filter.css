@@ -1,0 +1,16 @@
+
+div.filter {
+  width: 12rem;
+  margin: 1rem;
+  padding: 0 3rem 1rem 3rem;
+  border-radius: 8px;
+  background-color: gray;
+}
+
+.filter label {
+  display: block;
+}
+
+.filter input {
+  width: 5em;
+}

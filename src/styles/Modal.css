@@ -1,0 +1,25 @@
+.modal {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.outer-modal {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+
+.inner-modal {
+  padding: 0;
+  display: block;
+  align-items: flex-start;
+}
+
+.none {
+  display: none;
+}

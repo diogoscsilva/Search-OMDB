@@ -1,0 +1,19 @@
+
+header {
+  background-color: lightslategray;
+  display: flex;
+  color: white;
+}
+
+label {
+  margin: 0 3%;
+}
+
+.inner-modal {
+  margin-top: 1rem;
+  width: 310px;
+}
+
+.search {
+  align-self: flex-start;
+}

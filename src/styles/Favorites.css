@@ -1,0 +1,17 @@
+div.favorites {
+  width: 12rem;
+  margin: 1rem;
+  padding: 0 3rem 1rem 3rem;
+  border-radius: 8px;
+  background-color: gray;
+  align-self: flex-end;
+}
+
+label.favorites {
+  margin-left: auto;
+  margin-right: 10%;
+}
+
+div.favorites button {
+  margin-left: auto;
+}
