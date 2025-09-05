@@ -1,8 +1,11 @@
+## LInk do projeto
+
+https://searchmaispratiomdb.netlify.app/
 
 ## Intruções para uso em máquina local
 Faça o download da pasta
 no diretório que contém a pasta do projeto
-execute o comando "npm create vite@latest"
+execute o comando "npm create vite@latest
 entre na pasta do projeto
 execute o comando "npm run dev" para inicilizar o projeto
 e acessa no navegador a URL indicada. 
