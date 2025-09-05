@@ -1,22 +1,17 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Intruções para uso em máquina local
+Faça o download da pasta
+no diretório que contém a pasta do projeto
+execute o comando "npm create vite@latest"
+entre na pasta do projeto
+execute o comando "npm run dev" para inicilizar o projeto
+e acessa no navegador a URL indicada. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
 # Search-OMDB
 API Consume exercice
->>>>>>> b4b7451a9590e3b795147e7ea6a1adeffc22930e
-=======
-# Search-OMDB
-API Consume exercice
->>>>>>> b4b7451a9590e3b795147e7ea6a1adeffc22930e
+
+Exercício de consumo de API do OMDB, com busca por nome, aquisição de detalhes, seleção de favoritos com persistência no localstorage e navegação entre as páginas dos resultados. 
+
+O projeta utiliza useContext para manejo dos dados inseridos, manejo dos favoritos e filtors.
+ 
